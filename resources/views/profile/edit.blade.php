@@ -32,10 +32,10 @@
                                 {{ auth()->user()->name }}
                             </h3>
                             <div class="h5 mt-4">
-                                <i class="ni business_briefcase-24 mr-2"></i>{{ __('Fakultas Ilmu Komputer - Sistem Informasi') }}
+                                <i class="ni business_briefcase-24 mr-2"></i>{{ __('Fakultas Teknologi Informasi - Teknik Informatika') }}
                             </div>
                             <div>
-                                <i class="ni education_hat mr-2"></i>{{ __('Universitas Jember') }}
+                                <i class="ni education_hat mr-2"></i>{{ __('Universitas Yarsi') }}
                             </div>
                         </div>
                     </div>
